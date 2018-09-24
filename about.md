@@ -12,6 +12,6 @@ This blog is my project for IDC at WLMAC. You can checkout the [source](https://
 
 ### Credits
 
-Powered by [Jekyll](https://jekyllrb.com)
-Hosted on [GitHub Pages](https://pages.github.com)
+Powered by [Jekyll](https://jekyllrb.com)  
+Hosted on [GitHub Pages](https://pages.github.com)  
 Based on [Jekyll Now](https://www.jekyllnow.com)
