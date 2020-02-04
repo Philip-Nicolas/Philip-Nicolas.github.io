@@ -1,7 +1,7 @@
 ---
 title: Welcome to my website
 layout: page
-feature_image: "https://github.com/Philip-Nicolas/Philip-Nicolas.github.io/raw/master/assets/skyline.jpg"
+feature_image: "https://github.com/Philip-Nicolas/Philip-Nicolas.github.io/raw/master/assets/landingPageBknd.jpg"
 feature_text: |
   ## Hello world
 ---
