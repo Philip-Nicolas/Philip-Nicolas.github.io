@@ -53,9 +53,9 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Posts
+    title: blogz
     output: true
-    description: "My thoughts and ideas"
+    description: "this is literally not done stop" 
     feature_text: |
-      Welcome to my blog
+      welcome to broken site
     feature_image: "https://picsum.photos/2560/600?image=866"
