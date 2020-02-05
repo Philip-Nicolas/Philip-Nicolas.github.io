@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "home"
 layout: page
 feature_image: "assets/home/feature.jpg"
 feature_text: |
