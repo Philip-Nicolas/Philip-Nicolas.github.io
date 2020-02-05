@@ -1,0 +1,34 @@
+---
+title: false
+styles: true
+---
+// Backgrounds
+$backgroundColour: #343434;
+$codeBackgroundColour: #fafafa !default;
+$featureBackgroundColour: #f9fafa !default;
+$accentColour: #05bf85 !default;
+
+// Text
+$headingColour: #1c1611;
+$bodyColour: #b4aa8c;
+$linkColour: #f08250 !default;
+$hoverColour: #c86446;
+$focusColour: #fa407a !default;
+$captionColour: #b4aa8c;
+$white: #ffffff !default;
+
+$selectionColour: #ffd6c2;
+$selectionBackgroundColour: #000000;//$headingColour;
+
+
+@charset "utf-8";
+
+// Import frameworks & theme styles
+@import
+  "normalize",
+  "settings",
+  "sassline-base",
+  "syntax",
+  "flex",
+  "theme"
+;
