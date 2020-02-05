@@ -22,11 +22,16 @@ plugins:
 # Site settings
 url: 'https://philip-nicolas.github.io'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'philip-nicolas'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "assets/logo.jpg"
+author: Philip-Nicolas Varga
 
+
+sass:
+  style: compressed
+  sass_dir: _sass
+ 
 # Pagination
 paginate: 5
 paginate_path: blog/page:num
